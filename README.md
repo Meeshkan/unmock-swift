@@ -1,5 +1,8 @@
-# unmock-swift
-The great and mighty unmock swift repo will live here!
+# [Unmock](https://www.unmock.io/) (Swift SDK)
+
+[![Chat on Gitter](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/unmock/community)
+
+The great and mighty Unmock Swift repo will live here!
 
 ## Contributing
 
